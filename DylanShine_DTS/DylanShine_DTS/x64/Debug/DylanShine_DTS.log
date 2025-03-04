@@ -1,0 +1,4 @@
+﻿  UserReport.cpp
+C:\Users\Dijon\source\repos\DylanShine_DTS\UserReport.cpp(98,35): warning C4101: 'e': unreferenced local variable
+C:\Users\Dijon\source\repos\DylanShine_DTS\UserReport.cpp(182,35): warning C4101: 'e': unreferenced local variable
+  DylanShine_DTS.vcxproj -> C:\Users\Dijon\source\repos\DylanShine_DTS\x64\Debug\DylanShine_DTS.exe
